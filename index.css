@@ -485,7 +485,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__code:hover {
-    transform: scale(1.2);
+    //transform: scale(1.2);
 }
 
 .work__image-box {
